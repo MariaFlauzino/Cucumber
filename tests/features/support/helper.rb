@@ -1,4 +1,3 @@
-World(Helper)
 
 require 'fileutils'
 #método para tirar screenchot e anexar no relatório html
